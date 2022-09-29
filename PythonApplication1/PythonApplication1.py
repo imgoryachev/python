@@ -4,8 +4,6 @@
 
 # Hello from GitHub
 
-# Hello from VC
-
 # Цикл
 i = 1
 j = 1
