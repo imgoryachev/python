@@ -2,6 +2,8 @@
 # Comments
 '''
 
+# Hello from GitHub
+
 # Цикл
 i = 1
 j = 1
